@@ -1,6 +1,6 @@
 # Crisis-en-el-Atlas-de-Crudza
 Proyecto Grupal
-
+Duvan A. Zuluaga
 
 # WorldHub — Crisis en el Atlas de Crudzaso
 
