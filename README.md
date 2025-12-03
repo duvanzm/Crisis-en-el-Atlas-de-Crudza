@@ -3,7 +3,7 @@ Proyecto Grupal
 
 
 # WorldHub — Crisis en el Atlas de Crudzaso
-Hola soy luis, me extraña araña que siendo mosca no me conozca
+Hola soy luis, me extraña araña que siendo mosca no me conozca.
 ## 1. El problema
 
 Crudzaso lleva meses soñando con publicar un **Atlas visual** donde se puedan explorar diferentes **mundos, sistemas o realidades posibles**: ciudades imposibles, comunidades de desarrolladores, planetas inventados, escuelas extrañas, juegos teóricos, civilizaciones tecnológicas, etc.
